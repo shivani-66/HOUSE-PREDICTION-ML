@@ -11,7 +11,7 @@ import pandas as pd
 import streamlit as st
 import json
 import math
-import sklearn
+
 
 from PIL import Image
 
